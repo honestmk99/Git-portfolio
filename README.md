@@ -52,3 +52,9 @@ DoodCats is a collectibles NFT project inspired by CoolCats and Doodles. Each Do
 <br /><br /><br /><br /><br /><br />
 <hr />
 
+<h3><u><strong><i>Retro Pandas</i></strong></u> &nbsp;</h3>
+<img align="right" width="300px" src="https://i.ibb.co/rmwh8z2/16-16.jpg" >
+Retro Pandas is a community-driven project that consists of 3,000 unique Retro Pandas. The pandas are algorithmically generated and each has its own unique traits. The project was built by members of a rugged NFT project.
+<br /><br /><br /><br /><br /><br />
+<hr />
+
