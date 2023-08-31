@@ -83,3 +83,38 @@ The Hall of Zero Limits is an interactive digital experience on Sprite.com. It's
 <br /><br /><br /><br /><br /><br />
 <hr />
 
+<h3><u><strong><i>WinwinX</i></strong></u> &nbsp;</h3>
+<img align="right" width="300px" src="https://i.ibb.co/wKnTVPx/5-5.jpg"  >
+WinWinX is a peer-to-peer (P2P) Buy Now Pay Later (BNPL) platform. It allows anyone to buy or sell new and used items without needing a bank or credit check.
+WinWinX is suitable for:
+Sales, Rentals, Subscriptions, Memberships, Professional services, Accounts receivable.
+Sellers can list their items on the WinWinX Marketplace and review offers and buyer profiles. They can then decide which offer to accept.
+Buyers can make purchases from a fellow human using a peer-to-peer payment plan.
+WinWinX is available on the website or app.
+<br /><br /><br /><br /><br /><br />
+<hr />
+
+<h3><u><strong><i>EasyEdiStat</i></strong></u> &nbsp;</h3>
+<img align="left" width="300px" src="https://i.ibb.co/Prpt0RX/6-6.jpg"  >
+A Turnkey Solution for Clinical Research
+Sample size calculation, e-CRF, statistics, publication... Everything your team needs in a single, online application.
+<br /><br /><br /><br /><br /><br />
+<hr />
+
+<h3><u><strong><i>AI SEO Article Generator</i></strong></u> &nbsp;</h3>
+<img align="right" width="300px" src="https://i.ibb.co/cCr7Bzv/17-17.jpg"  >
+gustave.ai is a technology based on artificial intelligence coupled with more than 10 years of experience in natural referencing, which makes it possible to generate dozens of articles in a few minutes, to boost your SEO, effortlessly and for an unbeatable cost.
+<br /><br /><br /><br /><br /><br />
+<hr />
+
+<h3><u><strong><i>AI-Quest Story Game</i></strong></u> &nbsp;</h3>
+<img align="left" width="300px" src="https://i.ibb.co/vYsYXcN/7-7.jpg"  >
+With a blend of the latest AI technologies and decades of digital experience, we embarked on a journey to create an incredibly fun, engaging, and innovative storyteller.
+<br /><br /><br /><br /><br /><br />
+<hr />
+
+<h3><u><strong><i>FCMA</i></strong></u> &nbsp;</h3>
+<img align="right" width="300px" src="https://i.ibb.co/4p0ww4k/15-15.jpg"  >
+Farm Credit Mid-America (FCMA) is a member of the Farm Credit System. They provide credit and financial services to farmers, producers, and rural residents in Arkansas, Indiana, Kentucky, Ohio, Tennessee, and parts of Arkansas and Missouri. FCMA's goal is to secure the future of rural communities and agriculture.
+<br /><br /><br /><br /><br /><br />
+<hr />
