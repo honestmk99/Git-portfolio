@@ -41,7 +41,7 @@ Our system is a mutli-layer reward based optimisied economic model that uses the
 <hr />
 
 <h3><u><strong><i>Hyfi Staking </i></strong></u> &nbsp;</h3>
-<img align="right" width="300px" src="https://i.ibb.co/D48mBms/10-10.jpg" >
+<img align="left" width="300px" src="https://i.ibb.co/D48mBms/10-10.jpg" >
 Hyper Finance (HyFi.pro) is a decentralized mining platform that uses Binance Smart Chain. The platform aims to provide users with safe and profitable mining projects. Hyper Finance uses proprietary strategies to auto-compound mining yields and provide the best APYs. The platform also offers adaptive reinvest, which adjusts the frequency of harvest and auto reinvest to increase compound interest.
 <br /><br /><br /><br /><br /><br />
 <hr />
@@ -53,8 +53,33 @@ DoodCats is a collectibles NFT project inspired by CoolCats and Doodles. Each Do
 <hr />
 
 <h3><u><strong><i>Retro Pandas</i></strong></u> &nbsp;</h3>
-<img align="right" width="300px" src="https://i.ibb.co/gPD2Lzg/11-11.jpg" >
+<img align="left" width="300px" src="https://i.ibb.co/gPD2Lzg/11-11.jpg" >
 Retro Pandas is a community-driven project that consists of 3,000 unique Retro Pandas. The pandas are algorithmically generated and each has its own unique traits. The project was built by members of a rugged NFT project.
+<br /><br /><br /><br /><br /><br />
+<hr />
+
+<h3><u><strong><i>Bicycle Blue Book</i></strong></u> &nbsp;</h3>
+<img align="right" width="300px" src="https://i.ibb.co/94013hL/1-1.jpg"  >
+BicycleBlueBook.com is a website that offers a marketplace for used bikes and a valuation platform for bikes. The site estimates the market value of a used bike based on its model year, component specs, and condition. The value guide uses machine learning to analyze millions of transactions and reports three values: Original MSRP, Private Party, and Trade-in.
+<br /><br /><br /><br /><br /><br />
+<hr />
+
+<h3><u><strong><i>MA True Cannabis</i></strong></u> &nbsp;</h3>
+<img align="left" width="300px" src="https://i.ibb.co/0m18bNN/8-8.jpg"  >
+MA True Cannabis is an online store that sells Swiss-made CBD cannabis flowers and pre-rolled joints. The products are natural, nicotine-free, and 100% Swiss-made.
+<br /><br /><br /><br /><br /><br />
+<hr />
+
+<h3><u><strong><i>Kooup Dating and Meeting</i></strong></u> &nbsp;</h3>
+<img align="right" width="300px" src="https://i.ibb.co/9Vbwh5Y/9-9.jpg"  >
+Koo is an Indian social networking and microblogging service. 
+Kooup is a dating app that helps users find their perfect match. It uses a horoscope-based system to help users find their soulmate. Kooup cares about the privacy and safety of its members.
+<br /><br /><br /><br /><br /><br />
+<hr />
+
+<h3><u><strong><i>Hall Zero Limits</i></strong></u> &nbsp;(3D Museum)</h3>
+<img align="left" width="300px" src="https://i.ibb.co/ynFJJPq/14-14.jpg"  >
+The Hall of Zero Limits is an interactive digital experience on Sprite.com. It's a partnership between Sprite Zero and Marvel's Black Panther to help creators find inspiration. The experience is a cross between an afro-futuristic lab and museum.
 <br /><br /><br /><br /><br /><br />
 <hr />
 
