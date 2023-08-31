@@ -7,8 +7,6 @@ As an Innovative Developer with 8 years of experience specializing in AI, Python
 
 <h3><u><strong><i>Luckyrust</i></strong></u> &nbsp;(Gambling)</h3>
 <img align="right" width="400px" src="https://i.ibb.co/Fb7Yd6F/13-13.jpg">
-
-
 Luckyrust.gg is a new website that offers PVP skin gambling. The site aims to provide a safe and inclusive experience for all users. You can join the site for a chance to win an Alien Red through a giveaway.
 You can join the Luckyrust.gg Discord server at https://discord.gg/Yw7uUc6T.
 <br />
@@ -17,13 +15,12 @@ You can join the Luckyrust.gg Discord server at https://discord.gg/Yw7uUc6T.
 <br />
 <hr />
 
+<h3><u><strong><i>3D NFT Game</i></strong></u> &nbsp;(WagmiGame)</h3>
+<img align="right" width="400px" src="https://i.ibb.co/1qy8vvk/2-2.jpg" >
+WAGMI Games is a mobile WEB3 gaming entertainment franchise combining rare high-fidelity graphic games, sustainable in-game economies and vibrant communities to create the first of its kind hybrid experience.
 
-
-
-<h3><u><strong><i>3D NFT Game</i></strong></u> &nbsp; (WagmiGame)</h3>
-<img align="left" width="400px" src="https://i.ibb.co/Fb7Yd6F/13-13.jpg">
+<br />
+<br />
+<br />
+<br />
 <hr />
-
-
-Luckyrust.gg is a new website that offers PVP skin gambling. The site aims to provide a safe and inclusive experience for all users. You can join the site for a chance to win an Alien Red through a giveaway.
-You can join the Luckyrust.gg Discord server at https://discord.gg/Yw7uUc6T.
