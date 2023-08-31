@@ -12,7 +12,7 @@ As an Innovative Developer with 8 years of experience specializing in AI, Python
 Luckyrust.gg is a new website that offers PVP skin gambling. The site aims to provide a safe and inclusive experience for all users. You can join the site for a chance to win an Alien Red through a giveaway.
 You can join the Luckyrust.gg Discord server at https://discord.gg/Yw7uUc6T.
 
-<h3><u><strong><i>Luckyrust</i></strong></u> &nbsp;(Gambling)</h3>
+<h3><u><strong><i>3D NFT Game</i></strong></u> &nbsp; (WagmiGame)</h3>
 <hr />
 <img align="right" width="300px" src="https://i.ibb.co/Fb7Yd6F/13-13.jpg">
 
