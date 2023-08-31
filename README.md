@@ -13,7 +13,7 @@ You can join the Luckyrust.gg Discord server at https://discord.gg/Yw7uUc6T.
 <hr />
 
 <h3><u><strong><i>3D NFT Game</i></strong></u> &nbsp;(WagmiGame)</h3>
-<img align="right" width="300px" src="https://i.ibb.co/1qy8vvk/2-2.jpg" >
+<img align="left" width="300px" src="https://i.ibb.co/1qy8vvk/2-2.jpg" >
 WAGMI Games is a mobile WEB3 gaming entertainment franchise combining rare high-fidelity graphic games, sustainable in-game economies and vibrant communities to create the first of its kind hybrid experience.
 
 <br /><br /><br /><br />
@@ -27,7 +27,7 @@ Taunt Battleworld from Turnt Gaming is a fighting game sim built around unique N
 <hr />
 
 <h3><u><strong><i>Pokedx app </i></strong></u> &nbsp;</h3>
-<img align="right" width="300px" src="https://i.ibb.co/NFkSFg4/4-4.jpg" >
+<img align="left" width="300px" src="https://i.ibb.co/NFkSFg4/4-4.jpg" >
 Pokedex is a sample app inspired by the Pokedex website. This sample app lets users search for Pokemon by type, weakness, ability, and more!
 
 <br /><br /><br /><br /><br /><br />
