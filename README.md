@@ -6,15 +6,16 @@ A Full Stack (Web, Blockchain, AI, ML) developer
 As an Innovative Developer with 8 years of experience specializing in AI, Python, MERN Stack and Blockchain technologies, I possess the expertise to create dynamic and intelligent web applications. My goal is to enhance the customer's business by providing solutions that promote the growth of their application. Additionally, I aim to present a vision for the future version of their business that aligns with their interests.
 
 <h3><u><strong><i>Luckyrust</i></strong></u> &nbsp;(Gambling)</h3>
+<img align="right" width="400px" src="https://i.ibb.co/Fb7Yd6F/13-13.jpg">
 <hr />
-<img align="right" width="300px" src="https://i.ibb.co/Fb7Yd6F/13-13.jpg">
 
 Luckyrust.gg is a new website that offers PVP skin gambling. The site aims to provide a safe and inclusive experience for all users. You can join the site for a chance to win an Alien Red through a giveaway.
 You can join the Luckyrust.gg Discord server at https://discord.gg/Yw7uUc6T.
 
 <h3><u><strong><i>3D NFT Game</i></strong></u> &nbsp; (WagmiGame)</h3>
+<img align="left" width="400px" src="https://i.ibb.co/Fb7Yd6F/13-13.jpg">
 <hr />
-<img align="right" width="300px" src="https://i.ibb.co/Fb7Yd6F/13-13.jpg">
+
 
 Luckyrust.gg is a new website that offers PVP skin gambling. The site aims to provide a safe and inclusive experience for all users. You can join the site for a chance to win an Alien Red through a giveaway.
 You can join the Luckyrust.gg Discord server at https://discord.gg/Yw7uUc6T.
