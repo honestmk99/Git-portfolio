@@ -108,13 +108,13 @@ gustave.ai is a technology based on artificial intelligence coupled with more th
 <hr />
 
 <h3><u><strong><i>AI-Quest Story Game</i></strong></u> &nbsp;</h3>
-<img align="left" width="300px" src="https://i.ibb.co/vYsYXcN/7-7.jpg"  >
+<img align="left" width="300px" src="https://i.ibb.co/4p0ww4k/15-15.jpg" >
 With a blend of the latest AI technologies and decades of digital experience, we embarked on a journey to create an incredibly fun, engaging, and innovative storyteller.
 <br /><br /><br /><br /><br /><br />
 <hr />
 
 <h3><u><strong><i>FCMA</i></strong></u> &nbsp;</h3>
-<img align="right" width="300px" src="https://i.ibb.co/4p0ww4k/15-15.jpg"  >
+<img align="right" width="300px" src= "https://i.ibb.co/vYsYXcN/7-7.jpg"  >
 Farm Credit Mid-America (FCMA) is a member of the Farm Credit System. They provide credit and financial services to farmers, producers, and rural residents in Arkansas, Indiana, Kentucky, Ohio, Tennessee, and parts of Arkansas and Missouri. FCMA's goal is to secure the future of rural communities and agriculture.
 <br /><br /><br /><br /><br /><br />
 <hr />
