@@ -26,3 +26,27 @@ WAGMI Games is a mobile WEB3 gaming entertainment franchise combining rare high-
 <br />
 <br />
 <hr />
+
+<h3><u><strong><i>Metaverse Fighting Game-playtaunt </i></strong></u> &nbsp;</h3>
+<img align="right" width="400px" src="https://i.ibb.co/tZndYtY/3-3.jpg" >
+Taunt Battleworld from Turnt Gaming is a fighting game sim built around unique NFT fighters and its engage-to-earn model.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hr />
+
+<h3><u><strong><i>Pokedx app </i></strong></u> &nbsp;</h3>
+<img align="right" width="400px" src="https://i.ibb.co/NFkSFg4/4-4.jpg" >
+Pokedex is a sample app inspired by the Pokedex website. This sample app lets users search for Pokemon by type, weakness, ability, and more!
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hr />
